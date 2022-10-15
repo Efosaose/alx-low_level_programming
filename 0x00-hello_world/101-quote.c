@@ -5,7 +5,7 @@
  *  **main - Entry point
  *   *
  *    **description: 'to display a string using the write method'
- *   
+ **   
  *      **Return: Always 0 (Success)
  *       **/
 
